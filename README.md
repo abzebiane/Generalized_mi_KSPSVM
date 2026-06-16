@@ -51,3 +51,6 @@ For each dataset, a results file is generated containing:
 ## Reference
 
 M. Avolio and A. Fuduli, "A kernelized semiproximal support vector machine for multiple instance learning," *Optimization Letters*, 18, 635–649, 2024.
+
+The datasets were originally introduced in:
+S. Andrews, I. Tsochantaridis, and T. Hofmann, "Support vector machines for multiple-instance learning," *Advances in Neural Information Processing Systems*, 2003.
