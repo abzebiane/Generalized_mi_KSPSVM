@@ -1,4 +1,4 @@
-function mi_kspsvm_tst(dataset_name)
+function Gen_mi_KSPSVM(dataset_name)
 %Generalized mi-KSPSVM Algorithm (MATLAB Implementation)
 %Runs the generalized mi-KSPSVM with r=1,2,3 on a benchmark MIL dataset.
 %
